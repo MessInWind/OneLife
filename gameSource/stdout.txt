@@ -1,0 +1,14 @@
+shcore.dll loaded successfully
+Found SetProcessDpiAwareness function in shcore.dll
+age scale 3.000000 3.000000
+age scale 5.000000 5.000000
+age scale 15.000000 15.000000
+age scale 20.000000 20.000000
+age scale 104.000000 40.000000
+age scale 117.000000 57.000000
+age scale 120.000000 60.000000
+Loaded 0 tagged overlays from overlays folder
+Finished loading Sprite bank in -0.000000 sec
+Loaded 0 animations from animations folder
+Finished loading animation bank in 0.001000 sec
+Loaded 0 objects from objects folder

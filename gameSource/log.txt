@@ -1,0 +1,56 @@
+L4 | Wed Feb 28 18:47:37 2024 (571 ms) | general | New game starting up
+L4 | Wed Feb 28 18:47:37 2024 (571 ms) | general | Target game image size:  1024x600
+
+L4 | Wed Feb 28 18:47:37 2024 (572 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Wed Feb 28 18:47:37 2024 (572 ms) | general | Trying to start in fullscreen mode.
+L4 | Wed Feb 28 18:47:37 2024 (573 ms) | general | The following frame rates are considered possible:
+L4 | Wed Feb 28 18:47:37 2024 (573 ms) | general | 30 fps
+L4 | Wed Feb 28 18:47:37 2024 (574 ms) | general | 60 fps
+L4 | Wed Feb 28 18:47:37 2024 (574 ms) | general | 100 fps
+L4 | Wed Feb 28 18:47:37 2024 (574 ms) | general | 120 fps
+L4 | Wed Feb 28 18:47:37 2024 (574 ms) | general | 144 fps
+L4 | Wed Feb 28 18:47:37 2024 (577 ms) | general | Constructing ScreenGL with requested 1920x1080, 60 fps, fullscreen(1)
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general | Setting real (not borderless) fullscreen mode
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general | Current screen configuration is 1920x1080 with aspect ratio 1.77
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general | Checking if requested video mode (1920x1080) is available
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general | Available video modes:
+L5 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    1920 x 1080
+
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    ^^^^ this mode matches current aspect ratio
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    ^^^^ this mode matches requested mode
+L5 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    1680 x 1050
+
+L5 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    1366 x 768
+
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    1360 x 768
+
+L4 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    1280 x 1024
+
+L5 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    1280 x 800
+
+L5 | Wed Feb 28 18:47:37 2024 (578 ms) | general |    1280 x 768
+
+L5 | Wed Feb 28 18:47:37 2024 (579 ms) | general |    1280 x 720
+
+L4 | Wed Feb 28 18:47:37 2024 (579 ms) | general |    ^^^^ this mode matches current aspect ratio
+L5 | Wed Feb 28 18:47:37 2024 (579 ms) | general |    1024 x 768
+
+L5 | Wed Feb 28 18:47:37 2024 (579 ms) | general |    800 x 600
+
+L5 | Wed Feb 28 18:47:37 2024 (579 ms) | general |    640 x 480
+
+L4 | Wed Feb 28 18:47:37 2024 (865 ms) | general | ScreenGL gave us 1920x1080, 60 fps
+L4 | Wed Feb 28 18:47:37 2024 (865 ms) | general | Setting integer-scaled screen image size of 1920x1080
+L4 | Wed Feb 28 18:47:37 2024 (988 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Wed Feb 28 18:47:38 2024 (234 ms) | general | setViewSize called with 1920.000000
+L4 | Wed Feb 28 18:47:39 2024 (802 ms) | general | Measured frame rate = 59.980339 fps
+
+L4 | Wed Feb 28 18:47:39 2024 (802 ms) | general | Closest possible frame rate = 60 fps
+
+L4 | Wed Feb 28 18:47:39 2024 (802 ms) | general | Vsync seems to be enforcing an allowed frame rate of 60 fps.
+
+L4 | Wed Feb 28 18:47:39 2024 (864 ms) | general | setViewSize called with 1920.000000
